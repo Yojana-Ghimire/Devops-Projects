@@ -524,9 +524,3 @@ aws ecs execute-command \
 3. **Test application functionality**
 4. **Monitor CloudWatch metrics**
 5. **Review security configurations**
-
-If you found this helpful, consider **starring** ⭐ the repository and sharing it with your network! 🚀  
-
-### 📢 Stay Connected  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)
