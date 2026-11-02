@@ -2,7 +2,7 @@
 
 ![AWS](https://imgur.com/wLMcRHS.jpg)
 
-**This comprehensive guide demonstrates how to deploy a Django-based production application onto AWS using ECS (Elastic Container Service) and ECR (Elastic Container Registry). We'll cover the complete DevOps pipeline from containerization to deployment, including security best practices, monitoring setup, and production optimization.**
+Deployed a Django-based production application onto AWS using ECS (Elastic Container Service) and ECR (Elastic Container Registry). The complete DevOps pipeline from containerization to deployment, including security best practices, monitoring setup, and production optimization.**
 
 ## 📋 Table of Contents
 
@@ -106,10 +106,6 @@ myproject/
 ## 🐳 Docker & Containerization
 
 ![Docker](https://imgur.com/raGErLx.png)
-
-### What is Docker?
-
-**Docker is an open platform for developing, shipping, and running applications in containers. Containerization provides a lightweight, portable way to package applications with all their dependencies, ensuring consistency across different environments.**
 
 ### Benefits of Containerization
 - **Portability**: Run anywhere Docker is installed
